@@ -16,7 +16,7 @@ computational requirements for training and deploying these models pose challeng
 particularly for operational uses where rapid processing is essential. This work could
 potentially contribute to the integration of generative machine learning into existing
 paramaterisation schemes. Future research will aim to optimise the computational
-efficiency of these models and assess their practical application. The full report can be found [here] (https://github.com/Varsh-t/generative-ml-atmospheric-models/blob/main/Generative%20ML%20in%20Atmospheric%20Models.pdf). 
+efficiency of these models and assess their practical application. The full report can be found [here](https://github.com/Varsh-t/generative-ml-atmospheric-models/blob/main/Generative%20ML%20in%20Atmospheric%20Models.pdf). 
 Note that the code can be used to explore methods but does not contain any real data as this confidential.
 
 
